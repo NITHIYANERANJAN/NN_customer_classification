@@ -96,12 +96,12 @@ with torch.no_grad():
 
 ### Confusion Matrix
 
-<img width="834" height="620" alt="image" src="https://github.com/user-attachments/assets/51cb4dad-9453-451e-9011-99a3d2538b17" />
+<img width="742" height="534" alt="image" src="https://github.com/user-attachments/assets/790e03e1-fc4b-44ef-95b1-2acb15d63c58" />
 
 
 ### Classification Report
 
-<img width="712" height="473" alt="image" src="https://github.com/user-attachments/assets/61083b1c-d5e3-4073-a279-424cb08c3628" />
+<img width="1064" height="383" alt="image" src="https://github.com/user-attachments/assets/67965d67-4abc-4d48-92a9-93d75d3b8148" />
 
 
 ### New Sample Data Prediction
